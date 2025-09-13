@@ -1,10 +1,8 @@
 # HR Analysis Dashboard using Power BI
 
-This project contains an interactive **Power BI dashboard** built after cleaning and analyzing HR data.  
-The dashboard provides insights into workforce demographics, performance, and trends.
-
 <img width="1273" height="720" alt="image" src="https://github.com/user-attachments/assets/aadf76ab-4e87-4bbe-ad7b-a45e3c99afab" />
 
+HR Analysis Dashboard | Data Cleaning + Visualization in Power BI
 
 ## Features
 - Employee demographics overview  
